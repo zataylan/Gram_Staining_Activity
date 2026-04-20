@@ -62,7 +62,7 @@ nav.site-nav {
   padding: .8rem 1rem;
 }
 nav.site-nav a {
-  color: white;
+  color: rgb(0, 0, 0);
   text-decoration: none;
   padding: .58rem .85rem;
   border-radius: 999px;
